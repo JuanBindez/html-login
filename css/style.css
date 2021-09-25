@@ -1,0 +1,32 @@
+
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+body{
+    background-color: rgba(20, 19, 19, 0.822);
+}
+
+.container{
+    margin-top: 20%;
+    margin-bottom: 20%;
+    border-radius: 2%;
+    padding: 25px;
+    height: 300px;
+    width: 400px;
+    background-color: rgb(17, 19, 19);
+}
+
+.input-group-prepend{
+    margin: 6px;
+    padding: 5px;
+}
+
+.form-control{
+    background-color: rgba(43, 41, 41, 0.836);
+    margin-top: 1%;
+}
+
+.btn.btn-primary{
+    margin-top: 10%;
+}
